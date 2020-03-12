@@ -2,4 +2,4 @@ I'm Param Bala, CCE Engineer from Salesforce
 I work from SF-West
 
 my fav animal is tiger
-my fav color is blue
+my fav color is bluered
